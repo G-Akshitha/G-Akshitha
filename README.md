@@ -1,7 +1,7 @@
 ## Hi, I'm Akshitha👋
 Aspiring Data Scientist| ML and DL Enthusiast
 
-I am passionate about creating Ai-powered applications using Machine Learning. Currently i am also working on DL.
+I am passionate about creating AI-powered applications using Machine Learning. Currently I am also working on DL.
 
 ### 🚀Skills
 **Programming:** 
