@@ -22,13 +22,13 @@ I am passionate about creating AI-powered applications using Machine Learning. C
 - VS Code
 
 ### 📌Featured Projects
-**TravelGenie: An Intelligent End-to-End Travel and Itinerary Planning System**
+**TravelGenie: An Intelligent End-to-End Travel and Itinerary Planning System:**  
 Creates itinerary based on user prefernces like budget, trip days, hotel accomodation, type of trip and number of people. Suggest POIs, hotel and transport based on user preferences.  
 
 **Grocery Store Management:**  
 An SQL project that focuses on managing and analyzing data related to daily grocery store operations.
 
-**Financial Data Analysis:**
+**Financial Data Analysis:**  
 A Power BI project that focuses on analyzing financial data of multiple companies using Power BI dashboards. The dashboards help us  explore financial performance, identify trends and compare companies using key financial metrics such as Revenue, Net Income, Assets, Liabilities, Cash Flow, and Profitability ratios.
 
 <!--
