@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Akshitha👋
+Aspiring Data Scientist| ML and DL Enthusiast
+
+I am 
 
 <!--
 **G-Akshitha/G-Akshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
